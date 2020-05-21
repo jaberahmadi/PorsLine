@@ -1,0 +1,6 @@
+D:\companyProject\Paziresh\Paziresh.Common\bin\Debug\Paziresh.Common.dll
+D:\companyProject\Paziresh\Paziresh.Common\bin\Debug\Paziresh.Common.pdb
+D:\companyProject\Paziresh\Paziresh.Common\obj\Debug\Paziresh.Common.csprojAssemblyReference.cache
+D:\companyProject\Paziresh\Paziresh.Common\obj\Debug\Paziresh.Common.csproj.CoreCompileInputs.cache
+D:\companyProject\Paziresh\Paziresh.Common\obj\Debug\Paziresh.Common.dll
+D:\companyProject\Paziresh\Paziresh.Common\obj\Debug\Paziresh.Common.pdb

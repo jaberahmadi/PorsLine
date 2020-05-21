@@ -1,0 +1,6 @@
+D:\companyProject\Paziresh\Paziresh.DataAccess\bin\Debug\Paziresh.DataAccess.dll
+D:\companyProject\Paziresh\Paziresh.DataAccess\bin\Debug\Paziresh.DataAccess.pdb
+D:\companyProject\Paziresh\Paziresh.DataAccess\obj\Debug\Paziresh.DataAccess.csprojAssemblyReference.cache
+D:\companyProject\Paziresh\Paziresh.DataAccess\obj\Debug\Paziresh.DataAccess.csproj.CoreCompileInputs.cache
+D:\companyProject\Paziresh\Paziresh.DataAccess\obj\Debug\Paziresh.DataAccess.dll
+D:\companyProject\Paziresh\Paziresh.DataAccess\obj\Debug\Paziresh.DataAccess.pdb

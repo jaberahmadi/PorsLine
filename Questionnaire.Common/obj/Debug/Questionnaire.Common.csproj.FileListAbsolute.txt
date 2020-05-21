@@ -1,0 +1,11 @@
+C:\My_Progects\porsLine\PorsLine\Paziresh.Common\bin\Debug\Questionnaire.Common.dll
+C:\My_Progects\porsLine\PorsLine\Paziresh.Common\bin\Debug\Questionnaire.Common.pdb
+C:\My_Progects\porsLine\PorsLine\Paziresh.Common\obj\Debug\Questionnaire.Common.csproj.CoreCompileInputs.cache
+C:\My_Progects\porsLine\PorsLine\Paziresh.Common\obj\Debug\Questionnaire.Common.dll
+C:\My_Progects\porsLine\PorsLine\Paziresh.Common\obj\Debug\Questionnaire.Common.pdb
+C:\My_Progects\porsLine\PorsLine\Questionnaire.Common\bin\Debug\Questionnaire.Common.dll
+C:\My_Progects\porsLine\PorsLine\Questionnaire.Common\bin\Debug\Questionnaire.Common.pdb
+C:\My_Progects\porsLine\PorsLine\Questionnaire.Common\obj\Debug\Questionnaire.Common.csprojAssemblyReference.cache
+C:\My_Progects\porsLine\PorsLine\Questionnaire.Common\obj\Debug\Questionnaire.Common.csproj.CoreCompileInputs.cache
+C:\My_Progects\porsLine\PorsLine\Questionnaire.Common\obj\Debug\Questionnaire.Common.dll
+C:\My_Progects\porsLine\PorsLine\Questionnaire.Common\obj\Debug\Questionnaire.Common.pdb

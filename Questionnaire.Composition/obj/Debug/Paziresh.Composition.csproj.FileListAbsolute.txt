@@ -1,0 +1,22 @@
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.Composition\bin\Debug\Paziresh.Composition.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.Composition\bin\Debug\Paziresh.Composition.pdb
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.Composition\bin\Debug\Castle.Core.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.Composition\bin\Debug\Castle.Windsor.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.Composition\bin\Debug\Paziresh.Business.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.Composition\bin\Debug\Paziresh.Business.pdb
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.Composition\obj\Debug\Paziresh.Composition.csprojAssemblyReference.cache
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.Composition\obj\Debug\Paziresh.Composition.csproj.CoreCompileInputs.cache
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.Composition\obj\Debug\Paziresh.Composition.csproj.CopyComplete
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.Composition\obj\Debug\Paziresh.Composition.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.Composition\obj\Debug\Paziresh.Composition.pdb
+D:\companyProject\Paziresh\Paziresh.Composition\bin\Debug\Paziresh.Composition.dll
+D:\companyProject\Paziresh\Paziresh.Composition\bin\Debug\Paziresh.Composition.pdb
+D:\companyProject\Paziresh\Paziresh.Composition\bin\Debug\Castle.Core.dll
+D:\companyProject\Paziresh\Paziresh.Composition\bin\Debug\Castle.Windsor.dll
+D:\companyProject\Paziresh\Paziresh.Composition\bin\Debug\Paziresh.Business.dll
+D:\companyProject\Paziresh\Paziresh.Composition\bin\Debug\Paziresh.Business.pdb
+D:\companyProject\Paziresh\Paziresh.Composition\obj\Debug\Paziresh.Composition.csprojAssemblyReference.cache
+D:\companyProject\Paziresh\Paziresh.Composition\obj\Debug\Paziresh.Composition.csproj.CoreCompileInputs.cache
+D:\companyProject\Paziresh\Paziresh.Composition\obj\Debug\Paziresh.Composition.csproj.CopyComplete
+D:\companyProject\Paziresh\Paziresh.Composition\obj\Debug\Paziresh.Composition.dll
+D:\companyProject\Paziresh\Paziresh.Composition\obj\Debug\Paziresh.Composition.pdb

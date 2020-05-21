@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4B2B1E94-ED66-4B37-BEEA-B2C93622A8F4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Questionnaire.Composition</RootNamespace>
+    <AssemblyName>Questionnaire.Composition</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bootstrapper.cs" />
+    <Compile Include="Installers\BusinessInstaller.cs" />
+    <Compile Include="Installers\DataAccessInstaller.cs" />
+    <Compile Include="Installers\EndpointInstaller.cs" />
+    <Compile Include="Installers\MSSQLDataAccessInstaller.cs" />
+    <Compile Include="TypeResolutionException.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Castle.Core">
+      <Version>3.3.0</Version>
+    </PackageReference>
+    <PackageReference Include="Castle.Windsor">
+      <Version>3.3.0</Version>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Questionnaire.Business\Questionnaire.Business.csproj">
+      <Project>{9585394A-3FF4-4FF8-9666-D20C8A8F712E}</Project>
+      <Name>Questionnaire.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Questionnaire.DataAccess.MSSQL\Questionnaire.DataAccess.MSSQL.csproj">
+      <Project>{4DD17388-1552-45A3-8F2B-923401479BA5}</Project>
+      <Name>Questionnaire.DataAccess.MSSQL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Questionnaire.DataAccess\Questionnaire.DataAccess.csproj">
+      <Project>{BA9ACA89-F9CC-488D-A4E8-CB646AFAE4E3}</Project>
+      <Name>Questionnaire.DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

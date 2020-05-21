@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\companyProject\\Paziresh\\Paziresh.Composition\\Paziresh.Composition.csproj": {}
+  },
+  "projects": {
+    "D:\\companyProject\\Paziresh\\Paziresh.Business\\Paziresh.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\companyProject\\Paziresh\\Paziresh.Business\\Paziresh.Business.csproj",
+        "projectName": "Paziresh.Business",
+        "projectPath": "D:\\companyProject\\Paziresh\\Paziresh.Business\\Paziresh.Business.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "D:\\companyProject\\Paziresh\\Paziresh.Composition\\Paziresh.Composition.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\companyProject\\Paziresh\\Paziresh.Composition\\Paziresh.Composition.csproj",
+        "projectName": "Paziresh.Composition",
+        "projectPath": "D:\\companyProject\\Paziresh\\Paziresh.Composition\\Paziresh.Composition.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\companyProject\\Paziresh\\Paziresh.Composition\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "D:\\companyProject\\Paziresh\\Paziresh.Business\\Paziresh.Business.csproj": {
+                "projectPath": "D:\\companyProject\\Paziresh\\Paziresh.Business\\Paziresh.Business.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Castle.Core": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Castle.Windsor": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "Castle.Core/3.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Castle.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Castle.Core.dll": {}
+        }
+      },
+      "Castle.Windsor/3.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Castle.Core": "3.3.0"
+        },
+        "frameworkAssemblies": [
+          "System.Core",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net45/Castle.Windsor.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Castle.Windsor.dll": {}
+        }
+      },
+      "Questionnaire.Business/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Questionnaire.Common": "1.0.0",
+          "Questionnaire.DataAccess": "1.0.0",
+          "Questionnaire.DataAccess.MSSQL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Questionnaire.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Questionnaire.Business.dll": {}
+        }
+      },
+      "Questionnaire.Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Questionnaire.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Questionnaire.Common.dll": {}
+        }
+      },
+      "Questionnaire.DataAccess/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Questionnaire.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Questionnaire.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Questionnaire.DataAccess.dll": {}
+        }
+      },
+      "Questionnaire.DataAccess.MSSQL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Questionnaire.Common": "1.0.0",
+          "Questionnaire.DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Questionnaire.DataAccess.MSSQL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Questionnaire.DataAccess.MSSQL.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win": {
+      "Castle.Core/3.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Castle.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Castle.Core.dll": {}
+        }
+      },
+      "Castle.Windsor/3.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Castle.Core": "3.3.0"
+        },
+        "frameworkAssemblies": [
+          "System.Core",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net45/Castle.Windsor.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Castle.Windsor.dll": {}
+        }
+      },
+      "Questionnaire.Business/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Questionnaire.Common": "1.0.0",
+          "Questionnaire.DataAccess": "1.0.0",
+          "Questionnaire.DataAccess.MSSQL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Questionnaire.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Questionnaire.Business.dll": {}
+        }
+      },
+      "Questionnaire.Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Questionnaire.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Questionnaire.Common.dll": {}
+        }
+      },
+      "Questionnaire.DataAccess/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Questionnaire.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Questionnaire.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Questionnaire.DataAccess.dll": {}
+        }
+      },
+      "Questionnaire.DataAccess.MSSQL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Questionnaire.Common": "1.0.0",
+          "Questionnaire.DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Questionnaire.DataAccess.MSSQL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Questionnaire.DataAccess.MSSQL.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x64": {
+      "Castle.Core/3.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Castle.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Castle.Core.dll": {}
+        }
+      },
+      "Castle.Windsor/3.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Castle.Core": "3.3.0"
+        },
+        "frameworkAssemblies": [
+          "System.Core",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net45/Castle.Windsor.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Castle.Windsor.dll": {}
+        }
+      },
+      "Questionnaire.Business/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Questionnaire.Common": "1.0.0",
+          "Questionnaire.DataAccess": "1.0.0",
+          "Questionnaire.DataAccess.MSSQL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Questionnaire.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Questionnaire.Business.dll": {}
+        }
+      },
+      "Questionnaire.Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Questionnaire.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Questionnaire.Common.dll": {}
+        }
+      },
+      "Questionnaire.DataAccess/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Questionnaire.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Questionnaire.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Questionnaire.DataAccess.dll": {}
+        }
+      },
+      "Questionnaire.DataAccess.MSSQL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Questionnaire.Common": "1.0.0",
+          "Questionnaire.DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Questionnaire.DataAccess.MSSQL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Questionnaire.DataAccess.MSSQL.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6.1/win-x86": {
+      "Castle.Core/3.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Castle.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Castle.Core.dll": {}
+        }
+      },
+      "Castle.Windsor/3.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Castle.Core": "3.3.0"
+        },
+        "frameworkAssemblies": [
+          "System.Core",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net45/Castle.Windsor.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Castle.Windsor.dll": {}
+        }
+      },
+      "Questionnaire.Business/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Questionnaire.Common": "1.0.0",
+          "Questionnaire.DataAccess": "1.0.0",
+          "Questionnaire.DataAccess.MSSQL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Questionnaire.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Questionnaire.Business.dll": {}
+        }
+      },
+      "Questionnaire.Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Questionnaire.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Questionnaire.Common.dll": {}
+        }
+      },
+      "Questionnaire.DataAccess/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Questionnaire.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Questionnaire.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Questionnaire.DataAccess.dll": {}
+        }
+      },
+      "Questionnaire.DataAccess.MSSQL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Questionnaire.Common": "1.0.0",
+          "Questionnaire.DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Questionnaire.DataAccess.MSSQL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Questionnaire.DataAccess.MSSQL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Castle.Core/3.3.0": {
+      "sha512": "wvlF47qlxKXurxSUWAnX79stVrnkuUPe5lHq26OiXUtMEngPaBcJ+5j+yVdFJ70hjUZpqg7qQK5hCZSex14ekQ==",
+      "type": "package",
+      "path": "castle.core/3.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ASL - Apache Software Foundation License.txt",
+        "BreakingChanges.txt",
+        "Changes.txt",
+        "License.txt",
+        "castle.core.3.3.0.nupkg.sha512",
+        "castle.core.nuspec",
+        "lib/net35/Castle.Core.dll",
+        "lib/net35/Castle.Core.xml",
+        "lib/net40-client/Castle.Core.dll",
+        "lib/net40-client/Castle.Core.xml",
+        "lib/net45/Castle.Core.dll",
+        "lib/net45/Castle.Core.xml",
+        "lib/sl4/Castle.Core.dll",
+        "lib/sl4/Castle.Core.xml",
+        "lib/sl5/Castle.Core.dll",
+        "lib/sl5/Castle.Core.xml",
+        "readme.txt"
+      ]
+    },
+    "Castle.Windsor/3.3.0": {
+      "sha512": "5QiDI4DPLkIM7N9mTBaFlmh2GlWFZe+tF0tOzx0QdNE+pGWAm3gFrmKi4LnOIKIhGcocqW0zptMMIxidVMWqEQ==",
+      "type": "package",
+      "path": "castle.windsor/3.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ASL - Apache Software Foundation License.txt",
+        "BreakingChanges.txt",
+        "Changes.txt",
+        "License.txt",
+        "castle.windsor.3.3.0.nupkg.sha512",
+        "castle.windsor.nuspec",
+        "lib/net35/Castle.Windsor.dll",
+        "lib/net35/Castle.Windsor.xml",
+        "lib/net40-client/Castle.Windsor.dll",
+        "lib/net40-client/Castle.Windsor.xml",
+        "lib/net40/Castle.Windsor.dll",
+        "lib/net40/Castle.Windsor.xml",
+        "lib/net45/Castle.Windsor.dll",
+        "lib/net45/Castle.Windsor.xml",
+        "lib/sl4/Castle.Windsor.dll",
+        "lib/sl4/Castle.Windsor.xml",
+        "lib/sl5/Castle.Windsor.dll",
+        "lib/sl5/Castle.Windsor.xml",
+        "readme.txt"
+      ]
+    },
+    "Questionnaire.Business/1.0.0": {
+      "type": "project",
+      "path": "../Questionnaire.Business/Questionnaire.Business.csproj",
+      "msbuildProject": "../Questionnaire.Business/Questionnaire.Business.csproj"
+    },
+    "Questionnaire.Common/1.0.0": {
+      "type": "project",
+      "path": "../Questionnaire.Common/Questionnaire.Common.csproj",
+      "msbuildProject": "../Questionnaire.Common/Questionnaire.Common.csproj"
+    },
+    "Questionnaire.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Questionnaire.DataAccess/Questionnaire.DataAccess.csproj",
+      "msbuildProject": "../Questionnaire.DataAccess/Questionnaire.DataAccess.csproj"
+    },
+    "Questionnaire.DataAccess.MSSQL/1.0.0": {
+      "type": "project",
+      "path": "../Questionnaire.DataAccess.MSSQL/Questionnaire.DataAccess.MSSQL.csproj",
+      "msbuildProject": "../Questionnaire.DataAccess.MSSQL/Questionnaire.DataAccess.MSSQL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "Castle.Core >= 3.3.0",
+      "Castle.Windsor >= 3.3.0",
+      "Questionnaire.Business >= 1.0.0",
+      "Questionnaire.DataAccess >= 1.0.0",
+      "Questionnaire.DataAccess.MSSQL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\My_Progects\\porsLine\\PorsLine-Back\\Questionnaire.Composition\\Questionnaire.Composition.csproj",
+      "projectName": "Questionnaire.Composition",
+      "projectPath": "C:\\My_Progects\\porsLine\\PorsLine-Back\\Questionnaire.Composition\\Questionnaire.Composition.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\My_Progects\\porsLine\\PorsLine-Back\\Questionnaire.Composition\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {
+            "C:\\My_Progects\\porsLine\\PorsLine-Back\\Questionnaire.Business\\Questionnaire.Business.csproj": {
+              "projectPath": "C:\\My_Progects\\porsLine\\PorsLine-Back\\Questionnaire.Business\\Questionnaire.Business.csproj"
+            },
+            "C:\\My_Progects\\porsLine\\PorsLine-Back\\Questionnaire.DataAccess.MSSQL\\Questionnaire.DataAccess.MSSQL.csproj": {
+              "projectPath": "C:\\My_Progects\\porsLine\\PorsLine-Back\\Questionnaire.DataAccess.MSSQL\\Questionnaire.DataAccess.MSSQL.csproj"
+            },
+            "C:\\My_Progects\\porsLine\\PorsLine-Back\\Questionnaire.DataAccess\\Questionnaire.DataAccess.csproj": {
+              "projectPath": "C:\\My_Progects\\porsLine\\PorsLine-Back\\Questionnaire.DataAccess\\Questionnaire.DataAccess.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "Castle.Core": {
+            "target": "Package",
+            "version": "[3.3.0, )"
+          },
+          "Castle.Windsor": {
+            "target": "Package",
+            "version": "[3.3.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

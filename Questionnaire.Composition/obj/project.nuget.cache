@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K9YpgOJxxvQLzBjdL8Yr1JO6YytaMfbe6BO33xnfA5+/GME3ee3GDUn13YlBvgja6v6wBe2UAz0Q6zo32PhPbA==",
+  "success": true,
+  "projectFilePath": "C:\\My_Progects\\porsLine\\PorsLine-Back\\Questionnaire.Composition\\Questionnaire.Composition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\castle.core\\3.3.0\\castle.core.3.3.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\castle.windsor\\3.3.0\\castle.windsor.3.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

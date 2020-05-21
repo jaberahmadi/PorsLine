@@ -1,0 +1,6 @@
+C:\My_Progects\porsLine\PorsLine-Back\Questionnaire.Common\bin\Release\Questionnaire.Common.dll
+C:\My_Progects\porsLine\PorsLine-Back\Questionnaire.Common\bin\Release\Questionnaire.Common.pdb
+C:\My_Progects\porsLine\PorsLine-Back\Questionnaire.Common\obj\Release\Questionnaire.Common.csprojAssemblyReference.cache
+C:\My_Progects\porsLine\PorsLine-Back\Questionnaire.Common\obj\Release\Questionnaire.Common.csproj.CoreCompileInputs.cache
+C:\My_Progects\porsLine\PorsLine-Back\Questionnaire.Common\obj\Release\Questionnaire.Common.dll
+C:\My_Progects\porsLine\PorsLine-Back\Questionnaire.Common\obj\Release\Questionnaire.Common.pdb

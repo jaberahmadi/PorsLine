@@ -1,0 +1,9 @@
+C:\My_Progects\porsLine\PorsLine-Back\Questionnaire.DataAccess\bin\Release\Questionnaire.DataAccess.dll
+C:\My_Progects\porsLine\PorsLine-Back\Questionnaire.DataAccess\bin\Release\Questionnaire.DataAccess.pdb
+C:\My_Progects\porsLine\PorsLine-Back\Questionnaire.DataAccess\bin\Release\Questionnaire.Common.dll
+C:\My_Progects\porsLine\PorsLine-Back\Questionnaire.DataAccess\bin\Release\Questionnaire.Common.pdb
+C:\My_Progects\porsLine\PorsLine-Back\Questionnaire.DataAccess\obj\Release\Questionnaire.DataAccess.csprojAssemblyReference.cache
+C:\My_Progects\porsLine\PorsLine-Back\Questionnaire.DataAccess\obj\Release\Questionnaire.DataAccess.csproj.CoreCompileInputs.cache
+C:\My_Progects\porsLine\PorsLine-Back\Questionnaire.DataAccess\obj\Release\Questionnaire.DataAccess.csproj.CopyComplete
+C:\My_Progects\porsLine\PorsLine-Back\Questionnaire.DataAccess\obj\Release\Questionnaire.DataAccess.dll
+C:\My_Progects\porsLine\PorsLine-Back\Questionnaire.DataAccess\obj\Release\Questionnaire.DataAccess.pdb

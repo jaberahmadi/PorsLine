@@ -1,0 +1,12 @@
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.Business\bin\Debug\Paziresh.Business.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.Business\bin\Debug\Paziresh.Business.pdb
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.Business\obj\Debug\Paziresh.Business.csprojAssemblyReference.cache
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.Business\obj\Debug\Paziresh.Business.csproj.CoreCompileInputs.cache
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.Business\obj\Debug\Paziresh.Business.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.Business\obj\Debug\Paziresh.Business.pdb
+D:\companyProject\Paziresh\Paziresh.Business\bin\Debug\Paziresh.Business.dll
+D:\companyProject\Paziresh\Paziresh.Business\bin\Debug\Paziresh.Business.pdb
+D:\companyProject\Paziresh\Paziresh.Business\obj\Debug\Paziresh.Business.csprojAssemblyReference.cache
+D:\companyProject\Paziresh\Paziresh.Business\obj\Debug\Paziresh.Business.csproj.CoreCompileInputs.cache
+D:\companyProject\Paziresh\Paziresh.Business\obj\Debug\Paziresh.Business.dll
+D:\companyProject\Paziresh\Paziresh.Business\obj\Debug\Paziresh.Business.pdb

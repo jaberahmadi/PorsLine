@@ -1,0 +1,214 @@
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\obj\Debug\Paziresh.HttpEndpoint.csprojAssemblyReference.cache
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\obj\Debug\Paziresh.HttpEndpoint.csproj.CoreCompileInputs.cache
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\ApplicationInsights.config
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Paziresh.HttpEndpoint.dll.config
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Paziresh.HttpEndpoint.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Paziresh.HttpEndpoint.pdb
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\csc.exe
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\csc.exe.config
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\csc.rsp
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\csi.exe
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\csi.exe.config
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\csi.rsp
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.AppContext.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Console.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.IO.Compression.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.IO.FileSystem.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.IO.Pipes.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Security.AccessControl.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Security.Claims.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Threading.Thread.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.ValueTuple.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Xml.XPath.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\vbc.exe
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\vbc.exe.config
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\vbc.rsp
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\VBCSCompiler.exe
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Antlr3.Runtime.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AI.Web.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.ApplicationInsights.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Newtonsoft.Json.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Paziresh.Business.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Paziresh.Composition.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Swashbuckle.Core.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Diagnostics.DiagnosticSource.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Net.Http.Formatting.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Helpers.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Http.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Http.WebHost.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Mvc.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Optimization.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Razor.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.WebPages.Deployment.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.WebPages.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.WebPages.Razor.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\WebActivatorEx.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\WebGrease.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Castle.Windsor.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Castle.Core.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Paziresh.Business.pdb
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Paziresh.Composition.pdb
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Newtonsoft.Json.xml
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Net.Http.Formatting.xml
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Helpers.xml
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Http.xml
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Http.WebHost.xml
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Mvc.xml
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Optimization.xml
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Razor.xml
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.WebPages.xml
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.WebPages.Deployment.xml
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.WebPages.Razor.xml
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Antlr3.Runtime.pdb
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\System.Diagnostics.DiagnosticSource.xml
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AI.Web.xml
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\obj\Debug\Paziresh.HttpEndpoint.csproj.CopyComplete
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\obj\Debug\Paziresh.HttpEndpoint.dll
+c:\users\ghorbanzadeh.miladhospital\documents\visual studio 2017\Projects\Paziresh\Paziresh.HttpEndpoint\obj\Debug\Paziresh.HttpEndpoint.pdb
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\ApplicationInsights.config
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Paziresh.HttpEndpoint.dll.config
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Paziresh.HttpEndpoint.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Paziresh.HttpEndpoint.pdb
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\csc.exe
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\csc.exe.config
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\csc.rsp
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\csi.exe
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\csi.exe.config
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\csi.rsp
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.AppContext.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Collections.Immutable.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Console.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Diagnostics.Process.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.IO.Compression.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.IO.FileSystem.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.IO.Pipes.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Reflection.Metadata.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Security.AccessControl.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Security.Claims.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Security.Principal.Windows.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Threading.Thread.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.ValueTuple.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Xml.XmlDocument.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Xml.XPath.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\vbc.exe
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\vbc.exe.config
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\vbc.rsp
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\VBCSCompiler.exe
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\roslyn\VBCSCompiler.exe.config
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Antlr3.Runtime.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AI.Agent.Intercept.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AI.DependencyCollector.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AI.Web.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AI.WindowsServer.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.ApplicationInsights.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.Web.Infrastructure.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Newtonsoft.Json.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Paziresh.Business.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Paziresh.Composition.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Swashbuckle.Core.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Diagnostics.DiagnosticSource.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Net.Http.Formatting.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Helpers.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Http.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Http.WebHost.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Mvc.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Optimization.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Razor.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.WebPages.Deployment.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.WebPages.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.WebPages.Razor.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\WebActivatorEx.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\WebGrease.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Castle.Windsor.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Castle.Core.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Paziresh.Business.pdb
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Paziresh.Composition.pdb
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Newtonsoft.Json.xml
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Net.Http.Formatting.xml
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Helpers.xml
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Http.xml
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Http.WebHost.xml
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Mvc.xml
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Optimization.xml
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.Razor.xml
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.WebPages.xml
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.WebPages.Deployment.xml
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Web.WebPages.Razor.xml
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Antlr3.Runtime.pdb
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\System.Diagnostics.DiagnosticSource.xml
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AI.DependencyCollector.xml
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AI.WindowsServer.xml
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.AI.Web.xml
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\obj\Debug\Paziresh.HttpEndpoint.csprojAssemblyReference.cache
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\obj\Debug\Paziresh.HttpEndpoint.csproj.CoreCompileInputs.cache
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\obj\Debug\Paziresh.HttpEndpoint.csproj.CopyComplete
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\obj\Debug\Paziresh.HttpEndpoint.dll
+D:\companyProject\Paziresh\Paziresh.HttpEndpoint\obj\Debug\Paziresh.HttpEndpoint.pdb
