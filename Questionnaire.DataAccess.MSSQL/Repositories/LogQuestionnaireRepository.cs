@@ -21,6 +21,12 @@ namespace Questionnaire.DataAccess.MSSQL.Repositories
         {
             try
             {
+                if (logQuestionnaire==null)
+                {
+                    ErrorSignal.FromCurrentContext().Raise(new Exception("Exception Message: " + " ,ErrorType:  AddLogQuestionnaire() has error logQuestionnaire==null"));
+
+                    return null;
+                }
                 var result = _context.LogQuestionnaires.Add(logQuestionnaire);
                 return result;
 

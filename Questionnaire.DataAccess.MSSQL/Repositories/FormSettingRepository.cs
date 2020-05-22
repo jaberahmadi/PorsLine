@@ -9,7 +9,7 @@ using Questionnaire.DataAccess.Repositories;
 
 namespace Questionnaire.DataAccess.MSSQL.Repositories
 {
-    public class FormSettingRepository:IFormSettingRepository
+    public class FormSettingRepository : IFormSettingRepository
     {
         private QuestionnaireDbContext context;
 
@@ -22,7 +22,7 @@ namespace Questionnaire.DataAccess.MSSQL.Repositories
         {
             try
             {
-                var result= context.FormSettings.ToList();
+                var result = context.FormSettings.ToList();
                 return result;
             }
             catch (Exception e)
@@ -35,6 +35,11 @@ namespace Questionnaire.DataAccess.MSSQL.Repositories
         {
             try
             {
+                if (id < 1)
+                {
+                    ErrorSignal.FromCurrentContext().Raise(new Exception("Exception Message: " + " ,ErrorType:  FindDescriptions() has error id<1"));
+                    return null;
+                }
                 var result = context.FormSettings.FirstOrDefault(x => x.Id == id);
                 return result;
             }

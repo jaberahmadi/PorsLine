@@ -20,6 +20,8 @@ namespace Questionnaire.DataAccess.MSSQL.Repositories
         {
             if (questionnaire == null)
             {
+                ErrorSignal.FromCurrentContext().Raise(new Exception("Exception Message: " + " ,ErrorType:  AddQuestionnaire() has error questionnaire == null"));
+
                 return null;
             }
             return context.Questionnaires.Add(questionnaire);
@@ -31,6 +33,8 @@ namespace Questionnaire.DataAccess.MSSQL.Repositories
             {
                 if (questionnaireList==null)
                 {
+                    ErrorSignal.FromCurrentContext().Raise(new Exception("Exception Message: " + " ,ErrorType:  AddListQuestionnaireList() has error questionnaireList == null"));
+
                     return null;
                 }
                 return context.Questionnaires.AddRange(questionnaireList);
@@ -50,6 +54,8 @@ namespace Questionnaire.DataAccess.MSSQL.Repositories
             {
                 if (questionnaireList == null)
                 {
+                    ErrorSignal.FromCurrentContext().Raise(new Exception("Exception Message: " + " ,ErrorType:  DeleteQuestionnaireList() has error questionnaireList == null"));
+
                     return null;
                 }
                 return context.Questionnaires.RemoveRange(questionnaireList);
@@ -69,6 +75,8 @@ namespace Questionnaire.DataAccess.MSSQL.Repositories
             {
                 if (formId == null || formId==0)
                 {
+                    ErrorSignal.FromCurrentContext().Raise(new Exception("formId == null || formId==0"));
+
                     return null;
                 }
                 var result = context.Questionnaires.Where(x => x.FormId == formId).ToList();

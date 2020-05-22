@@ -25,7 +25,7 @@ namespace Questionnaire.Business.Implementations.Services
         private const int convertToMin = 60 * 1000;
         private const int intevalExternalTime = 10000;
         private object Key = true;
-       private int _index = 1;
+        private int _index = 1;
 
         private bool check = false;
 
@@ -39,8 +39,19 @@ namespace Questionnaire.Business.Implementations.Services
 
         public void PeriodQuestionnaireTimer()
         {
+            var index = 1;
+
             var formSettings = _unitOfWork.FormSettingRepository.GetFormSettingList();
-            int index = 1;
+
+            while (formSettings == null)
+            {
+                var i = 1;
+                ErrorSignal.FromCurrentContext().Raise(new Exception("Exception Message: " + $" ,ErrorType:  {i}_unitOfWork.FormSettingRepository.GetFormSettingList()"));
+
+                formSettings = _unitOfWork.FormSettingRepository.GetFormSettingList();
+                i++;
+            }
+
             foreach (var item in formSettings)
             {
                 var timer = new Timer();
@@ -48,11 +59,11 @@ namespace Questionnaire.Business.Implementations.Services
                 QuestionnaireTimer(timer, item, index);
                 index++;
             }
-
         }
 
         public void QuestionnaireTimer(Timer timer, FormSetting formSetting, int index)
         {
+
             if (formSetting.PeriodTime > 0)
             {
                 timer.Interval = (convertToMin * formSetting.PeriodTime) + (intevalExternalTime * index);
@@ -62,51 +73,51 @@ namespace Questionnaire.Business.Implementations.Services
                 timer.Interval = (convertToMin * 240);
                 ErrorSignal.FromCurrentContext().Raise(new Exception("Exception Message: " + "ArgumentOutOfRangeException" + " ,ErrorType:  periodTime<0"));
             }
-
-
-            timer.Elapsed += (sender, e) => MyElapsedMethod(sender, e, formSetting,index);
-
-
+            timer.Elapsed += (sender, e) => MyElapsedMethod(sender, e, formSetting, index);
             timer.AutoReset = true;
             timer.Enabled = true;
         }
 
-        public void MyElapsedMethod(object source, ElapsedEventArgs e, FormSetting formSetting,int index)
+        public void MyElapsedMethod(object source, ElapsedEventArgs e, FormSetting formSetting, int index)
         {
-            GetQuestionnaire(formSetting,index);
+            GetQuestionnaire(formSetting, index);
 
         }
         public void CreateFormSettingForQuestionnaire()
         {
             var formSettings = _unitOfWork.FormSettingRepository.GetFormSettingList();
+            while (formSettings == null)
+            {
+                var i = 1;
+                ErrorSignal.FromCurrentContext().Raise(new Exception("Exception Message: " + $" ,ErrorType: firstLoad {i}_unitOfWork.FormSettingRepository.GetFormSettingList()"));
 
+                formSettings = _unitOfWork.FormSettingRepository.GetFormSettingList();
+                i++;
+            }
             foreach (var item in formSettings)
             {
 
                 lock (Key)
                 {
                     Key = false;
-                    GetQuestionnaire(item,0);
+                    GetQuestionnaire(item, 0);
                 }
             }
-
-
         }
-        public IEnumerable<Questionnaires> GetQuestionnaire(FormSetting formSetting,int index)
+        public IEnumerable<Questionnaires> GetQuestionnaire(FormSetting formSetting, int index)
         {
             if (check)
             {
-
-                Thread.Sleep(_index*intevalExternalTime);
+                if (index > _index)
+                {
+                    _index = index;
+                }
+                Thread.Sleep(_index * intevalExternalTime);
 
             }
+            _index = index;
 
-            if (index>_index)
-            {
-                _index = index;
-            }
             check = true;
-            var test = formSetting.Descriptions;
             if (formSetting.FormId < 0 || string.IsNullOrEmpty(formSetting.Token)) return null;
             var url = $"https://survey.porsline.ir/api/surveys/{formSetting.FormId}/responses/";
             var restClient = new RestClient(url);
@@ -129,14 +140,25 @@ namespace Questionnaire.Business.Implementations.Services
             var response = restClient.Execute(restRequest);
             var questionnaireDto = JsonConvert.DeserializeObject<QuestionnaireDto>(response.Content);
             var result = _questionnaireFactory.CreateQuestionnaire(questionnaireDto, formSetting.FormId);
+            if (result == null)
+            {
+                ErrorSignal.FromCurrentContext().Raise(new Exception("Exception Message: " + " ,ErrorType: null  _questionnaireFactory.CreateQuestionnaire(questionnaireDto, formSetting.FormId)"));
+
+            }
             var deleteResult = DeleteExistQuestionnaireInDatabase(formSetting);
             if (!deleteResult)
             {
                 Key = true;
                 check = false;
+                ErrorSignal.FromCurrentContext().Raise(new Exception("Exception Message: " + " ,ErrorType: DeleteExistQuestionnaireInDatabase(formSetting) notDelete"));
                 return null;
             }
             var entity = AddQuestionnaireToDatabase(result, formSetting);
+            if (entity == null)
+            {
+                ErrorSignal.FromCurrentContext().Raise(new Exception("Exception Message: " + " ,ErrorType: null AddQuestionnaireToDatabase(result, formSetting);"));
+
+            }
             Key = true;
             check = false;
             return entity;
@@ -147,8 +169,11 @@ namespace Questionnaire.Business.Implementations.Services
             var entities = _unitOfWork.QuestionnaireRepository.FindQuestionnaireListForDelete(formSetting.FormId);
             try
             {
-                if (entities.Count() > 0) _unitOfWork.QuestionnaireRepository.DeleteQuestionnaireList(entities);
-                _unitOfWork.Commit();
+                if (entities.Count() > 0)
+                {
+                    _unitOfWork.QuestionnaireRepository.DeleteQuestionnaireList(entities);
+                    _unitOfWork.Commit();
+                }
                 var resultFormSetting = _unitOfWork.FormSettingRepository.FindDescriptions(formSetting.Id);
                 var logQuestionnaireDto = _logQuestionnaireFactory.CreateLogQuestionnaireDto(resultFormSetting, "Delete");
                 var logQuestionnaire = _logQuestionnaireFactory.CreateLogQuestionnaire(logQuestionnaireDto);
@@ -171,7 +196,16 @@ namespace Questionnaire.Business.Implementations.Services
             try
             {
                 var entities = _unitOfWork.QuestionnaireRepository.AddList(questionnaireList);
-                _unitOfWork.Commit();
+                if (entities!=null)
+                {
+                    _unitOfWork.Commit();
+
+                }
+                else
+                {
+                    ErrorSignal.FromCurrentContext().Raise(new Exception("Exception Message: " + " ,ErrorType: Entity null references _unitOfWork.QuestionnaireRepository.AddList(questionnaireList)"));
+
+                }
                 var resultFormSetting = _unitOfWork.FormSettingRepository.FindDescriptions(formSetting.Id);
                 var logQuestionnaireDto = _logQuestionnaireFactory.CreateLogQuestionnaireDto(resultFormSetting, "Insert");
 
